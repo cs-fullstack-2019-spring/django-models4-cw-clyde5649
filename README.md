@@ -1,3 +1,6 @@
+### POINTS: 0
+### KEY: Looks like you just started with our code together work and added nothing to it as it doesn't create the requested output.
+
 # Django Models and Foreign keys
 
 ### Exercise 1
